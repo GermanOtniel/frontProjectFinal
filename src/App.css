@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Just+Another+Hand');
+@import url('https://fonts.googleapis.com/css?family=Yatra+One');
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Paytone+One');
+
+body {
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.app {
+  width: 100%;
+  height: 100vh;
+  background-image: url('./images/subbappi.jpg');
+  background-size: 100%;
+}
+.relojito{
+  color:rgb(163, 7, 7);
+  font-size: 25px
+}
+
+.conoce {
+  margin-left: 90%;
+  margin-top: -6%
+}
+.pColor {
+  color:grey;
+  margin: 0 auto;
+
+}
+.marginTop{
+  margin-top: -30px
+}
+a {
+  color: #00B7FF;
+}
+p {
+  color: white;
+  font-size: 15px;
+  margin-left: 3.5%
+}
+
+h4 ~ p {
+  color: black
+}
+.appBar {
+  color:black
+}
+
+
+h6 {
+  font-family: 'Paytone One', cursive;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 0%;
+  margin-left: 2%;
+  color: white; 
+}
+h5 {
+  color:red
+}
+.image {
+  width: 700px;
+  height: 550px;
+}
+
+/* @keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
